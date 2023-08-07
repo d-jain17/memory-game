@@ -1,0 +1,9 @@
+#grid{
+     height: 300px;
+     width: 400px;
+     display: flex;
+     flex-wrap: wrap;  /*The flex-wrap property specifies whether the flexible items should wrap or not jse beech 
+     m white spaces ya fir images
+      ko width ke hisaab se next line pr shift krdena */
+
+}
